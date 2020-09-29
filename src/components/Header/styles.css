@@ -1,0 +1,40 @@
+
+.title {
+    margin-top: 25px;
+    margin-left: 30px;
+    font-family: monospace;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.subtitle {
+    margin-top: 15px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.menu{
+    padding-top: 20px;
+    margin-right: 10px;
+}
+
+a{
+    font-family: monospace;
+    color: black;
+    text-decoration: none;
+}
+
+
+a + a {
+    padding-left: 10px;
+    border-left: 1px solid black;
+    margin-left: 10px;
+}

@@ -1,0 +1,38 @@
+.bookItem {
+    background: #bcb8b1;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 100%;
+    max-width: 1000px;
+    padding: 24px;
+    display: block;
+    margin-top: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    opacity: 0.9;
+    justify-content: space-between;
+    transition: transform 0.2s;
+}
+
+.bookItem:hover{
+    transform: translateX(10px);
+}
+
+.bookItem svg{
+    
+    margin-left: 50px;
+}
+
+.bookInfo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.bookInfo strong {
+    margin: 10px 0px 10px 0px;    
+}
+
+
