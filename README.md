@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -158,3 +159,6 @@ Project Link: [https://github.com/jotace1/bookfinder](https://github.com/jotace1
 [license-url]: https://github.com/jotace1/bookfinder/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joaocsc/
+=======
+App created using REACT.
+>>>>>>> 2e9dfbbe7e1825c862e38f1378956843834b2c2f
