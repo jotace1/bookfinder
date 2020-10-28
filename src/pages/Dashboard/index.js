@@ -24,7 +24,6 @@ const Dashboard = () => {
         try {
             
             const response = await api.get(`?q=${formatedSearch}`);
-            console.log(response.data.items);
             setBooks(response.data.items);
             
         } catch (err) {
