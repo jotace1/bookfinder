@@ -49,7 +49,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :mag_right: About The Project
 <p align="center">
 <img src="public\screenshot.png" alt="Logo" width="500" height="350">
 </p>
