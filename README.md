@@ -33,7 +33,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## 📎 Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -57,7 +57,7 @@
 
 
 
-### Built With
+### 💻 Built With
 
 * [ReactJS](https://pt-br.reactjs.org/)
 * [Google Books API](https://developers.google.com/books)
@@ -69,7 +69,7 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### ⚙ Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm or yarn
@@ -81,7 +81,7 @@ or
 yarn
 ```
 
-### Installation
+### 📙 Installation
 
 1. Clone the repo
 ```sh
@@ -102,7 +102,7 @@ yarn start
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 🚀 Usage
 After running the app, you can search for any book u want.
 
 Have fun
@@ -115,7 +115,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 📙 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -128,7 +128,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## 📝 License
 
 Distributed under the MIT License. See `MIT` for more information.
 
