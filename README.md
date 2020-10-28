@@ -145,15 +145,15 @@ Project Link: [https://github.com/jotace1/bookfinder](https://github.com/jotace1
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/jotace1/bookfinder.svg?style=flat-square
 [contributors-url]: https://github.com/jotace1/bookfinder/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/jotace1/bookfinder.svg?style=flat-square
 [forks-url]: https://github.com/jotace1/bookfinder/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/jotace1/bookfinder.svg?style=flat-square
 [stars-url]: https://github.com/jotace1/bookfinder/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/jotace1/bookfinder.svg?style=flat-square
 [issues-url]: https://github.com/jotace1/bookfinder/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/jotace1/bookfinder.svg?style=flat-square
 [license-url]: https://github.com/jotace1/bookfinder/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/joaocsc/
