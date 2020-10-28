@@ -134,7 +134,7 @@ Distributed under the MIT License. See `MIT` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## :calling: Contact
 
 João Carlos de Souza Castro - [Linkedin](https://www.linkedin.com/in/joaocsc/) - joaocsc01@hotmail.com
 
